@@ -32,3 +32,15 @@ $ pipenv run test (ejecutar test unitarios)
 
 ## Ejemplo de Ejecución
 👷‍♀️ En construcción 💪
+
+    Para realizar el cálculo primero definiremos el orden
+    variables disponibles:
+        - angulo de lanzamiento
+        - velocidad inicial
+    Se requiere conseguir:
+        - altura máxima alcanzada del proyectil
+        - distancia máxima recorrida
+    
+    Para ello, conseguiremos inicialmente la velocidad en cada uno de los ejes implicados
+    velocidad en eje X e Y, luego para efectos de calcular la distancia máxima recorrida, 
+    conseguiremos el tiempo y finalmente calcularemos la altura y distancia recorrida
