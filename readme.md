@@ -52,7 +52,7 @@ Durante la ejecución le preguntará si desea ingresar la información de forma 
  Para responder escribe "manual" o "json"'
 ```
 
-a) En el primer caso, le solicirtará ingresar datos sales como la velocidad inicial y el ángulo de inclinación en el que fue lanzado el proyectil. Debe ingresar los datos considerando que las unidades de medidas consideradas son m/s y ángulo en grados respectivamente 
+a) En el primer caso, le solicirtará ingresar datos tales como la velocidad inicial y el ángulo de inclinación en el que fue lanzado el proyectil. Debe ingresar los datos considerando que las unidades de medidas consideradas son m/s y ángulo en grados respectivamente 
 
 b) Por otro lado, si selecciona la segunda opción, deberá indicar el nombre del archivo a leer. Para factores de prueba se encuentra un archivo llamado entrada.json
 
