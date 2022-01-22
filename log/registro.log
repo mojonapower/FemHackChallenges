@@ -1,0 +1,1094 @@
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.5759586531581288
+DEBUG:modules.calc:resultado obtenido 17.973088155495894
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.5759586531581288
+DEBUG:modules.calc:resultado obtenido 27.676128742198994
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.8339885872954993
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 16.481219277817694
+DEBUG:modules.calc:2022-01-22 18:21:56.799403 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 67.52975413096554
+DEBUG:__main__:Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 33.0
+        angulo de lanzamiento: 33.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X27.676128742198994
+        Velocidad de lanzamiento en Y17.973088155495894
+        Altura máxima alcanzada h_max16.481219277817694
+        Distancia recorrida x_max 67.52975413096554 
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:<built-in method now of type object at 0x54A283B0> Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 15
+        angulo de lanzamiento: 53
+
+        Formato de entrada : json
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X9.027225347280726
+        Velocidad de lanzamiento en Y11.979532650709393
+        Altura máxima alcanzada h_max7.321898088235327
+        Distancia recorrida x_max 22.026429847364973 
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:23:46.830171 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:<built-in method now of type object at 0x54A283B0> Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 10
+        angulo de lanzamiento: 23
+
+        Formato de entrada : json
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X9.205048534524403
+        Velocidad de lanzamiento en Y3.907311284892738
+        Altura máxima alcanzada h_max0.7789327284209253
+        Distancia recorrida x_max 22.460318424239542 
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 18:24:50.674836 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 12.362017582725096
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 30.597067200703986
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2614303655841934
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.796912179367573
+DEBUG:modules.calc:2022-01-22 18:25:30.660224 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 74.65684396971773
+DEBUG:__main__:2022-01-22 18:25:36.131499 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 33.0
+        angulo de lanzamiento: 22.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X30.597067200703986
+        Velocidad de lanzamiento en Y12.362017582725096
+        Altura máxima alcanzada h_max7.796912179367573
+        Distancia recorrida x_max 74.65684396971773 
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 2.0988989491419927
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 10.797899017924303
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.21417336215734617
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.22476412238313065
+DEBUG:modules.calc:2022-01-22 18:27:34.238981 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 26.3468736037353
+DEBUG:__main__:2022-01-22 18:27:37.117193 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 11.0
+        angulo de lanzamiento: 11.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X10.797899017924303
+        Velocidad de lanzamiento en Y2.0988989491419927
+        Altura máxima alcanzada h_max0.22476412238313065
+        Distancia recorrida x_max 26.3468736037353 
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:30:18.590335 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 15
+        angulo de lanzamiento: 53
+
+        Formato de entrada : json
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X9.027225347280726
+        Velocidad de lanzamiento en Y11.979532650709393
+        Altura máxima alcanzada h_max7.321898088235327
+        Distancia recorrida x_max 22.026429847364973 
+        Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:29:57.062701 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:2022-01-22 18:30:18.591335 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 10
+        angulo de lanzamiento: 23
+
+        Formato de entrada : json
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X9.205048534524403
+        Velocidad de lanzamiento en Y3.907311284892738
+        Altura máxima alcanzada h_max0.7789327284209253
+        Distancia recorrida x_max 22.460318424239542 
+        Tiempo transcurrido t 0.39870523315232015
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.767944870877505
+DEBUG:modules.calc:resultado obtenido 15.28248415009794
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.767944870877505
+DEBUG:modules.calc:resultado obtenido 15.825475607450326
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.5594371581732591
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 11.916036826428302
+DEBUG:modules.calc:2022-01-22 18:31:58.442495 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 38.6141604821788
+DEBUG:__main__:2022-01-22 18:32:02.700456 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 22.0
+        angulo de lanzamiento: 44.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X15.825475607450326
+        Velocidad de lanzamiento en Y15.28248415009794
+        Altura máxima alcanzada h_max11.916036826428302
+        Distancia recorrida x_max 38.6141604821788 
+        Tiempo transcurrido t 1.5594371581732591
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.5759586531581288
+DEBUG:modules.calc:resultado obtenido 11.982058770330596
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.5759586531581288
+DEBUG:modules.calc:resultado obtenido 18.450752494799328
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2226590581969996
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.324986345696752
+DEBUG:modules.calc:2022-01-22 18:32:31.271040 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 45.01983608731036
+DEBUG:__main__:2022-01-22 18:32:36.816487 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 22.0
+        angulo de lanzamiento: 33.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X18.450752494799328
+        Velocidad de lanzamiento en Y11.982058770330596
+        Altura máxima alcanzada h_max7.324986345696752
+        Distancia recorrida x_max 45.01983608731036 
+        Tiempo transcurrido t 1.2226590581969996
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 2.0988989491419927
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 10.797899017924303
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.21417336215734617
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.22476412238313065
+DEBUG:modules.calc:2022-01-22 18:33:16.092285 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 26.3468736037353
+DEBUG:__main__:2022-01-22 18:33:20.206214 Resumen:
+        valores iniciales:
+
+        velocidad de lanzamiento: 11.0
+        angulo de lanzamiento: 11.0
+
+        Formato de entrada : manual
+
+        Resultados obtenidos:
+        Velocidad de lanzamiento en X10.797899017924303
+        Velocidad de lanzamiento en Y2.0988989491419927
+        Altura máxima alcanzada h_max0.22476412238313065
+        Distancia recorrida x_max 26.3468736037353 
+        Tiempo transcurrido t 0.21417336215734617
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:37:50.302439 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:37:40.618254 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:2022-01-22 18:37:50.303439 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 10
+                angulo de lanzamiento: 23
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.205048534524403
+                Velocidad de lanzamiento en Y3.907311284892738
+                Altura máxima alcanzada h_max0.7789327284209253
+                Distancia recorrida x_max 22.460318424239542 
+                Tiempo transcurrido t 0.39870523315232015
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:45:04.686356 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:44:56.318959 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:2022-01-22 18:45:04.687357 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 10
+                angulo de lanzamiento: 23
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.205048534524403
+                Velocidad de lanzamiento en Y3.907311284892738
+                Altura máxima alcanzada h_max0.7789327284209253
+                Distancia recorrida x_max 22.460318424239542 
+                Tiempo transcurrido t 0.39870523315232015
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:45:31.043719 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:45:24.118157 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:2022-01-22 18:45:31.044719 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 10
+                angulo de lanzamiento: 23
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.205048534524403
+                Velocidad de lanzamiento en Y3.907311284892738
+                Altura máxima alcanzada h_max0.7789327284209253
+                Distancia recorrida x_max 22.460318424239542 
+                Tiempo transcurrido t 0.39870523315232015
+
+
+ 
+DEBUG:__main__:OS error [Errno 2] No such file or directory: 'entrada/22'
+DEBUG:__main__:OS error [Errno 2] No such file or directory: 'entrada/22'
+DEBUG:__main__:OS error [Errno 2] No such file or directory: 'entrada/json'
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:51:30.486373 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 3.907311284892738
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.4014257279586958
+DEBUG:modules.calc:resultado obtenido 9.205048534524403
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.39870523315232015
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.7789327284209253
+DEBUG:modules.calc:2022-01-22 18:51:17.465597 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.460318424239542
+DEBUG:__main__:2022-01-22 18:51:30.486373 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 10
+                angulo de lanzamiento: 23
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.205048534524403
+                Velocidad de lanzamiento en Y3.907311284892738
+                Altura máxima alcanzada h_max0.7789327284209253
+                Distancia recorrida x_max 22.460318424239542 
+                Tiempo transcurrido t 0.39870523315232015
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 18:55:28.744276 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 18:56:11.488698 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 18:57:17.566308 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 18:57:22.039043 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:57:26.691092 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:57:32.403381 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 18:57:59.918888 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 18:58:04.455510 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 18:59:14.448891 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 18:59:18.786870 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 19:00:57.778249 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 19:01:09.283843 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15.0
+                angulo de lanzamiento: 53.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 19:02:23.611274 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 19:02:28.640408 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.8726646259971648
+DEBUG:modules.calc:resultado obtenido 16.852977748617516
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.8726646259971648
+DEBUG:modules.calc:resultado obtenido 14.141327413103866
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.7196916070017871
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 14.490962193642707
+DEBUG:modules.calc:2022-01-22 19:03:51.404835 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 34.504838887973435
+DEBUG:__main__:2022-01-22 19:03:57.628686 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 50.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X14.141327413103866
+                Velocidad de lanzamiento en Y16.852977748617516
+                Altura máxima alcanzada h_max14.490962193642707
+                Distancia recorrida x_max 34.504838887973435 
+                Tiempo transcurrido t 1.7196916070017871
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 19:04:50.541640 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 19:05:03.330192 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 19:18:53.579147 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 19:19:03.391617 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15.0
+                angulo de lanzamiento: 53.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 11.979532650709393
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.9250245035569946
+DEBUG:modules.calc:resultado obtenido 9.027225347280726
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.2224012908887134
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 7.321898088235327
+DEBUG:modules.calc:2022-01-22 19:22:23.910455 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 22.026429847364973
+DEBUG:__main__:2022-01-22 19:22:36.915775 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 15
+                angulo de lanzamiento: 53
+
+                Formato de entrada : json
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X9.027225347280726
+                Velocidad de lanzamiento en Y11.979532650709393
+                Altura máxima alcanzada h_max7.321898088235327
+                Distancia recorrida x_max 22.026429847364973 
+                Tiempo transcurrido t 1.2224012908887134
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.767944870877505
+DEBUG:modules.calc:resultado obtenido 15.28248415009794
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.767944870877505
+DEBUG:modules.calc:resultado obtenido 15.825475607450326
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 1.5594371581732591
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 11.916036826428302
+DEBUG:modules.calc:2022-01-22 19:22:55.636802 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 38.6141604821788
+DEBUG:__main__:2022-01-22 19:23:00.632929 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 44.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X15.825475607450326
+                Velocidad de lanzamiento en Y15.28248415009794
+                Altura máxima alcanzada h_max11.916036826428302
+                Distancia recorrida x_max 38.6141604821788 
+                Tiempo transcurrido t 1.5594371581732591
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 19:23:12.905856 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 19:23:15.593462 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 19:23:37.835929 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 19:23:41.702801 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 2.0988989491419927
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.19198621771937624
+DEBUG:modules.calc:resultado obtenido 10.797899017924303
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.21417336215734617
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 0.22476412238313065
+DEBUG:modules.calc:2022-01-22 19:24:06.951292 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 26.3468736037353
+DEBUG:__main__:2022-01-22 19:24:09.608892 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 11.0
+                angulo de lanzamiento: 11.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X10.797899017924303
+                Velocidad de lanzamiento en Y2.0988989491419927
+                Altura máxima alcanzada h_max0.22476412238313065
+                Distancia recorrida x_max 26.3468736037353 
+                Tiempo transcurrido t 0.21417336215734617
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 19:24:43.544771 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 19:24:46.203951 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 calculando velocidad del proyectil en el Eje Y
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 8.241345055150065
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 calculando velocidad del proyectil en el Eje X
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 convirtiendo de radianes a grados
+DEBUG:modules.calc:resultado obtenido 0.3839724354387525
+DEBUG:modules.calc:resultado obtenido 20.39804480046932
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 calculando tiempo que tardó en lanzarse el proyectil
+DEBUG:modules.calc:resultado obtenido 0.840953577056129
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 calculando altura maxima alcanzada, considerando la aceleración de gravedad como 9.8
+DEBUG:modules.calc:resultado obtenido 3.4652943019411437
+DEBUG:modules.calc:2022-01-22 19:24:57.394065 calculando distancia que recorrió proyectil 
+DEBUG:modules.calc:resultado obtenido 49.77122931314514
+DEBUG:__main__:2022-01-22 19:25:01.290944 Resumen:
+                valores iniciales:
+
+                velocidad de lanzamiento: 22.0
+                angulo de lanzamiento: 22.0
+
+                Formato de entrada : manual
+
+                Resultados obtenidos:
+                Velocidad de lanzamiento en X20.39804480046932
+                Velocidad de lanzamiento en Y8.241345055150065
+                Altura máxima alcanzada h_max3.4652943019411437
+                Distancia recorrida x_max 49.77122931314514 
+                Tiempo transcurrido t 0.840953577056129
+
+
+ 

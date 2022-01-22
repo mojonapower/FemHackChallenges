@@ -1,10 +1,13 @@
 import vpython as vs
 import numpy as np
 
-#ejemplo parametros(velocidad en x, velocidad en y, tiempo recorrido, distancia total)
-def simulacion(v0x,v0z,t_total,x_final):
-    g=9.8
-    vel_fotogramas = 10 ## la velocidad del video
+
+def simulacion(v0x,v0z, alfa,t_total):
+    
+    vel_fotogramas = 10  ## la velocidad del video
+    # Constantes
+    g = 9.81 ## Aceleración de la gravedad
+    x_final = v0x * t_total
     # Empezamos con visual python (vpython)
     # Creamos el 'suelo'
     suelo = vs.box(
@@ -53,7 +56,7 @@ def simulacion(v0x,v0z,t_total,x_final):
     )
     # Animamos todo el cotarro!!!
     t = 0
-    while t_total <= t_total:
+    while t <= t_total:
         bola.pos = vs.vector(
             v0x * t, 
             v0z * t - 0.5 * g * t**2,
@@ -72,4 +75,5 @@ def simulacion(v0x,v0z,t_total,x_final):
         labely.text = 'posicion y = %s m' % str(v0z * t - 0.5 * g * t**2)
         t = t + t_total / 100.
         vs.rate(vel_fotogramas)
+
 
