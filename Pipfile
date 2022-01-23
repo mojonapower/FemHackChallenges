@@ -8,6 +8,7 @@ numpy = "*"
 matplotlib = "*"
 sympy = "*"
 scipy = "*"
+vpython = "*"
 
 [dev-packages]
 
